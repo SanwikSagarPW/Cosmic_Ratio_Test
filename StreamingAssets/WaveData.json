@@ -1,0 +1,235 @@
+{
+    "waveSets": [
+        {
+            "id": "Stage1",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                {
+                    "display": "3 x 5",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "10", "12", "8", "20" ],
+                    "correct": [ "15" ]
+                },
+                {
+                    "display": "2 x 7",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "9", "12", "5", "27" ],
+                    "correct": [ "14" ]
+                },
+                {
+                    "display": "4 x 4",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "8", "12", "4", "20" ],
+                    "correct": [ "16" ]
+                },
+                {
+                    "display": "6 x 1",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "5", "7", "10", "0" ],
+                    "correct": [ "6" ]
+                },
+                {
+                    "display": "9 x 0",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "9", "1", "10", "90" ],
+                    "correct": [ "0" ]
+                },
+                {
+                    "display": "3 x 6",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "9", "12", "15", "24" ],
+                    "correct": [ "18" ]
+                },
+                {
+                    "display": "5 x 2",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "7", "12", "8", "25" ],
+                    "correct": [ "10" ]
+                },
+                {
+                    "display": "1 x 8",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "7", "18", "9", "1" ],
+                    "correct": [ "8" ]
+                },
+                {
+                    "display": "7 x 3",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "10", "14", "24", "18" ],
+                    "correct": [ "21" ]
+                },
+                {
+                    "display": "4 x 5",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "9", "15", "25", "10" ],
+                    "correct": [ "20" ]
+                }
+            ]
+        },
+        {
+            "id": "Stage2",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                {
+                    "display": "12 x 4",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "16", "24", "36", "42" ],
+                    "correct": [ "48" ]
+                },
+                {
+                    "display": "15 x 3",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "18", "30", "15", "54" ],
+                    "correct": [ "45" ]
+                },
+                {
+                    "display": "20 x 5",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "25", "50", "200", "120" ],
+                    "correct": [ "100" ]
+                },
+                {
+                    "display": "11 x 6",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "17", "55", "77", "60" ],
+                    "correct": [ "66" ]
+                },
+                {
+                    "display": "23 x 2",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "25", "40", "232", "50" ],
+                    "correct": [ "46" ]
+                },
+                {
+                    "display": "10 x 8",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "18", "108", "180", "8" ],
+                    "correct": [ "80" ]
+                },
+                {
+                    "display": "14 x 5",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "19", "60", "50", "75" ],
+                    "correct": [ "70" ]
+                },
+                {
+                    "display": "30 x 3",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "33", "60", "300", "330" ],
+                    "correct": [ "90" ]
+                },
+                {
+                    "display": "16 x 4",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "20", "32", "60", "100" ],
+                    "correct": [ "64" ]
+                },
+                {
+                    "display": "25 x 2",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "27", "40", "500", "252" ],
+                    "correct": [ "50" ]
+                }
+            ]
+        },
+        {
+            "id": "Stage3",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                {
+                    "display": "25 x 38",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "900", "850", "1000", "875" ],
+                    "correct": [ "950" ]
+                },
+                {
+                    "display": "15 x 62",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "900", "920", "950", "1000" ],
+                    "correct": [ "930" ]
+                },
+                {
+                    "display": "45 x 18",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "800", "790", "820", "850" ],
+                    "correct": [ "810" ]
+                },
+                {
+                    "display": "32 x 25",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "600", "700", "750", "850" ],
+                    "correct": [ "800" ]
+                },
+                {
+                    "display": "75 x 12",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "800", "850", "950", "1000" ],
+                    "correct": [ "900" ]
+                },
+                {
+                    "display": "28 x 35",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "960", "970", "990", "1000" ],
+                    "correct": [ "980" ]
+                },
+                {
+                    "display": "19 x 42",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "780", "800", "810", "820" ],
+                    "correct": [ "798" ]
+                },
+                {
+                    "display": "65 x 15",
+                    "spawnStyle": "zig-zag",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "950", "1000", "925", "990" ],
+                    "correct": [ "975" ]
+                },
+                {
+                    "display": "48 x 20",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "480", "900", "1000", "860" ],
+                    "correct": [ "960" ]
+                },
+                {
+                    "display": "50 x 17",
+                    "spawnStyle": "zig-zac",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "750", "800", "900", "950" ],
+                    "correct": [ "850" ]
+                }
+            ]
+        }
+    ]
+}
