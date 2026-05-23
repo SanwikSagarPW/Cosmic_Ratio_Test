@@ -3,7 +3,7 @@
         {
             "id": "Stage1",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "1:1",
@@ -150,7 +150,7 @@
         {
             "id": "Stage2",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "4:5",
@@ -297,7 +297,7 @@
         {
             "id": "Stage3",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "5:7",
